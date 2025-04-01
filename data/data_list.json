@@ -1,32 +1,32 @@
 [
     {
         "sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce-Data-Analysis-with-Fabric/refs/heads/master/data/Trans_dim.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/refs/heads/master/data/Trans_dim.csv",
         "sinkFileName":"Trans_dim.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce-Data-Analysis-with-Fabric/blob/master/data/customer_dim.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/blob/master/data/customer_dim.csv",
         "sinkFileName":"customer_dim.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce-Data-Analysis-with-Fabric/refs/heads/master/data/fact_table.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/refs/heads/master/data/fact_table.csv",
         "sinkFileName":"fact_table.csv"
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce-Data-Analysis-with-Fabric/refs/heads/master/data/item_dim.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/refs/heads/master/data/item_dim.csv",
         "sinkFileName":"item_dim.csv"
     },
 
     {"sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce-Data-Analysis-with-Fabric/refs/heads/master/data/store_dim.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/refs/heads/master/data/store_dim.csv",
         "sinkFileName":"store_dim.csv"
     },
 
     {"sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce-Data-Analysis-with-Fabric/refs/heads/master/data/time_dim.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/refs/heads/master/data/time_dim.csv",
         "sinkFileName":"time_dim.csv"
     }
 ]
