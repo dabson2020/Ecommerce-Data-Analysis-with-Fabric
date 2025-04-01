@@ -6,7 +6,7 @@
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com/",
-        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/blob/master/data/customer_dim.csv",
+        "sourceRelativeURL":"dabson2020/Ecommerce_Data_Analysis_with_Fabric/refs/heads/master/data/customer_dim.csv",
         "sinkFileName":"customer_dim.csv"
     },
     {
